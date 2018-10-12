@@ -17,7 +17,7 @@
 
 **b. Include a photo of your box here.**
 
-![a relative link](./IMG_8339.JPG)
+![a relative link](./IMG_839.JPG)
 
 ![a relative link](./IMG_2160.JPG)
 
