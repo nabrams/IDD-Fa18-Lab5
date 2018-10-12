@@ -117,6 +117,6 @@ void loop()
 }
 ```
 
-**A video of your useless box in action.**
+## A video of my useless box in action
 
 ![](./box.jpg)(https://youtu.be/Xz3YT5VJaF4)
