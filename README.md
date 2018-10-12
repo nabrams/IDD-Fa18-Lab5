@@ -4,6 +4,8 @@
 
 **a. Include a photo of your printed part here.**
 
+*** Here are the iterations I made for my arm. The left was the first protoype, and the final product is attached on the lever. ***
+
 
 ![a relative link](./IMG_9298.JPG)
 
@@ -15,11 +17,16 @@
 
 **b. Include a photo of your box here.**
 
+![a relative link](./IMG_8339.JPG)
+
 ![a relative link](./IMG_2160.JPG)
 
 ## Electronics
 
 **c. Upload code & a photo of your electronic circuit here.**
+
+
+![](./circut.jpg)(https://youtu.be/gwqkft8TaS8)
 
 ## Putting it All Together
 
