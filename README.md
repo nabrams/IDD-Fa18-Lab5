@@ -1,4 +1,6 @@
-# Useless Box
+# Useless Box - Lab 5
+
+## A lab report by Natalie B. Abrams
 
 ## 3D Printing
 
@@ -25,8 +27,7 @@
 
 **c. Upload code & a photo of your electronic circuit here.**
 
-
-![](./circut.jpg)(https://youtu.be/gwqkft8TaS8)
+[![Watch the video](./circut.jpg)](https://youtu.be/gwqkft8TaS8)
 
 ## Putting it All Together
 
@@ -119,4 +120,5 @@ void loop()
 
 ## A video of my useless box in action
 
-![](./box.jpg)(https://youtu.be/Xz3YT5VJaF4)
+[![Watch the video](./box.jpg)](https://youtu.be/Xz3YT5VJaF4)
+
