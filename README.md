@@ -4,7 +4,7 @@
 
 **a. Include a photo of your printed part here.**
 
-***Here are the iterations I made for my arm. The left was the first protoype, and the final product is attached on the lever.***
+***Here are the iterations I made for my arm. The left was the first protoype, and the final product is attached on the motor.***
 
 
 ![a relative link](./IMG_9298.JPG)
